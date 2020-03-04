@@ -1,15 +1,15 @@
-# leetcode_practice
-C++/C版本
+# LEETCODE_C/C++practice
+C++/C  edition
 
 [![](https://img.shields.io/badge/-leetcode-brightgreen)](点击超链接)![](https://img.shields.io/badge/-c%2B%2B-red)
 
-每日更新:angel:
+EVERYDAY UPDATE:angel:
 
-> 最近更新：2020年3月3日17:25:53
+> RECENTLY UPDATED：2020年3月4日17:57:37
 >
-> 今日更新题号：053  300  每日一题打卡
+> TASK OF TODAY：003   每日一题打卡
 
-## C++练习刷题:smiley_cat: 
+## C++​ :purple_heart:
 
 |      分类      |  难度  |  progress  |
 | :------------: | :----: | :--------: |
@@ -18,7 +18,7 @@ C++/C版本
 |                |        |            |
 |                |        |            |
 
-## C复试刷题：
+## C:black_heart:
 
 |       分类        |  难度  |  progress  |
 | :---------------: | :----: | :--------: |
@@ -29,7 +29,13 @@ C++/C版本
 
 
 
-## 经典汇总
+## CLASSIFYCATION:green_heart:
 
-1. 回溯算法+剪枝技巧【039、040】
-2. 二分法【300、153】
+| 序号 |      题型      | 题号    |
+| :--: | :------------: | ------- |
+|  1   | 回溯算法+剪枝  | 039-040 |
+|  2   |     二分法     | 300-153 |
+|  3   | sliding window | 003     |
+|      |                |         |
+|      |                |         |
+
