@@ -5,9 +5,9 @@ C++/C  edition
 
 EVERYDAY UPDATE:angel:
 
-> RECENTLY UPDATED：2020年3月4日17:57:37
+> RECENTLY UPDATED：2020年3月5日16:26:07
 >
-> TASK OF TODAY：003   每日一题打卡
+> TASK OF TODAY：48  54  1103
 
 ## C++​ :purple_heart:
 
@@ -23,7 +23,7 @@ EVERYDAY UPDATE:angel:
 |       分类        |  难度  |  progress  |
 | :---------------: | :----: | :--------: |
 | [数组](./C复试题) | medium | 💙💙❤️❤️❤️❤️❤️❤️❤️❤️ |
-| [数组](./C复试题) |  easy  | 💙💙❤️❤️❤️❤️❤️❤️❤️❤️ |
+| [数组](./C复试题) |  easy  | 💙💙💙❤️❤️❤️❤️❤️❤️❤️ |
 |                   |        |            |
 |                   |        |            |
 
