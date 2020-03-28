@@ -94,4 +94,21 @@
    }
    ```
 
-   
+2. 字符串字典排序：
+
+```c
+int cmp(const void * a, const void *b) //qsort库要求参数const
+{
+	//return strcmp(*(char **)a, *(char **)b);
+	return strcmp((char *)a,(char *)b) ; 
+}
+int main()
+{
+	char s[3][55] = { "im","imi","in" };  //字符串数组排序
+	qsort(s, 3, 55, cmp); //一共三组，每组大小取最长字符串大小，这里取数组定义的醉哒哒
+	for (int i = 0; i<3; i++)
+		printf("%s\n", s[i]);
+	return 0;
+}
+```
+
