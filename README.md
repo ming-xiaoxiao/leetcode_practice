@@ -5,9 +5,9 @@ C++/C  edition
 
 EVERYDAY UPDATE:angel:
 
-> RECENTLY UPDATED：2020-03-29 15:45:12
+> RECENTLY UPDATED：2020-04-01 11:12:49
 >
-> NUMS OF TASK OF TODAY：:three:
+> NUMS OF TASK OF TODAY：:two:
 
 ## C++​ :purple_heart:
 
