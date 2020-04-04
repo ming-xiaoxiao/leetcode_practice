@@ -5,7 +5,7 @@ C++/C  edition
 
 EVERYDAY UPDATE:angel:
 
-> RECENTLY UPDATED：2020-04-03 12:54:100:
+> 
 >
 > NUMS OF TASK OF TODAY：:three:
 
