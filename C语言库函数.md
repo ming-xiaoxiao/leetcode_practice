@@ -114,3 +114,9 @@ int main()
 }
 ```
 
+## 3. 字符串和整形浮点型的转换
+
+1. atof：    字符串转float       原型 `double atof( const char* str );`
+2. atoi：     字符串转int          原型 `int atoi( const char *str );`
+3. atol：同理
+4. atoll：同理
